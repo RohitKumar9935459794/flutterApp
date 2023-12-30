@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main() {
+/*void main() {
   //here is printing welcome to dart by using print
   print('welcome to dart');
   // here is printing enter your name by using stdout.write
@@ -10,4 +10,4 @@ void main() {
   //here printing the var by using $ sign and
   //in dart out call did in the ' ' 
   print('welcom ,$names');
-}
+}*/

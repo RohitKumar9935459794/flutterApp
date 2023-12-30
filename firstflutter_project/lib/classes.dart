@@ -1,4 +1,4 @@
-// here creating a class named s
+/*// here creating a class named s
 class Human {
   //here i am creating constroctor
   Human();
@@ -13,3 +13,4 @@ void main() {
   ////this way is not creating run time it only calling 
   var ram = Human();
 }
+*/
